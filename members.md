@@ -15,6 +15,7 @@ edit_url: /edit/gh-pages/members.md
 * [Colin Blower](mailto:webby@1101b.com) ([github account](https://github.com/Lanzaa))
 * [Venkata Munnangi](mailto:saidatta24@gmail.com) ([github account](https://github.com/saidatta))
 * [Jose Padilla](mailto:jose.padilla.88@gmail.com) ([github account](https://github.com/jpadv))
+* [Bernard Mesa] (mailto: bernard.mesa@sjsu.edu) ([github account] (https://github.com/bernard-mesa))
 
 
 # Alumni
